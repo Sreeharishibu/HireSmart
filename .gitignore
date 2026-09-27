@@ -1,0 +1,34 @@
+# Java / Maven
+HireSmart/target/
+*.class
+
+# React
+hiresmart-frontend/node_modules/
+hiresmart-frontend/dist/
+
+# Runtime uploads
+HireSmart/uploads/
+uploads/
+
+# Environment files / secrets
+.env
+.env.*
+!.env.example
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
